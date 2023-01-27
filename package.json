@@ -1,0 +1,22 @@
+{
+  "name": "tarea2_dw1_cristianrivera",
+  "version": "1.0.0",
+  "description": "tarea2",
+  "main": "indexT2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adbelrivera2019/Tarea2_DW1_CristianRivera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adbelrivera2019/Tarea2_DW1_CristianRivera/issues"
+  },
+  "homepage": "https://github.com/adbelrivera2019/Tarea2_DW1_CristianRivera#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
